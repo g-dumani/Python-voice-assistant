@@ -34,3 +34,4 @@ class Commander:
     def respond(self, response):
         speak.Speak(response)
         print(response)
+        
